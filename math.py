@@ -1,19 +1,19 @@
 #import flask
-#add() imp
+#add() header
 def add(x,y): 
 		pass
 def subtract(x,y): 
-	#sub() imp
+	#sub() header
 	 	return x-y #substraction by master
-	 	#mul() implimented
+	 	#mul() header
 def multiply(x,y):
  		return x*y #implemented mul() by bug456
- 		#div() imp
+ 		#div() header
 def divide(x,y): 
 		if y==0 #implemneted div() by bug789
 		return "bivide  by zero"
 		else
-#square() implimentation
+#square() header
 def square(x)
 		pass
 
