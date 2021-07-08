@@ -15,5 +15,5 @@ def divide(x,y):
 		else
 #square() header
 def square(x)
-		pass
+		return x*x
 
